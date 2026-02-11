@@ -1,0 +1,8 @@
+#app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: lightgray;
+  border-style: double;
+  border-color: black;
+}
